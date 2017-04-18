@@ -8,3 +8,6 @@
 #### The majority of my work was based on understanding and retreiving data in file formats unfimiliar to me. The data was compressed in the pipeline as .fits extensions. The data was really 3 dimensions compressed into a 2 dimensional data format. 
 
 #### There was a lot that I took away from this opportunity. I had a wondeful and up close experience working in an academic group at the professional level. I learned what it was to be working on a particular piece of a greater whole, which means the desire for good communication and level of competence. With all of the above, the biggest thing I took away was working with Python. This has opened a wonderful door for me to understand and further my skills in this dynamic programming language. Python is clearly emmerging as a wonderful data manipulation tool.
+
+
+![6488 004_angstroms](https://cloud.githubusercontent.com/assets/26147620/25146192/3d4bdeec-2430-11e7-8864-8647bd1672f8.png)
